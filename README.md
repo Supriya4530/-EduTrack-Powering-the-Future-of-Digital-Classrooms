@@ -1,4 +1,4 @@
-# EduTrack-Powering-the-Future-of-Digital-Classrooms
+# EduTrack-Powering the Future of Digital Classrooms
 A powerful Spring Boot backend that powers student records, attendance, and subject management — clean, scalable, and integration-ready.
 
 EduTrack is a robust and scalable Spring Boot REST API designed to streamline academic operations such as student management, subject enrollment, user authentication, and real-time attendance tracking.
